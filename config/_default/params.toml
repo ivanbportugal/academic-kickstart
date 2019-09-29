@@ -243,3 +243,15 @@ plugins_js  = []
   engine = 2
   api_key = ""
   zoom = 15
+
+############################
+## Calendar Events
+############################
+[collections]
+  [calendar]
+    output = true
+    permalink = "/calendar/:path/"
+    title = "Events"
+  # [calendar-data]
+  #   output = true
+  #   permalink = "/calendar-data/:path/"

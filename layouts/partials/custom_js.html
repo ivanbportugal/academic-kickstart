@@ -1,0 +1,75 @@
+{{/* Do not directly modify this file! */}}
+{{/* Instead, create a `layout/partials/custom_js.html` file in your site and add your code to it. */}}
+
+{{/* This partial is included in `themes/academic/layout/partials/site_js.html`. */}}
+
+<script>
+  const alldatafile = {{ "/index.json" | relLangURL }};
+  readTextFile(alldatafile, function(text){
+    const alldata = JSON.parse(text);
+    const caldata = alldata.filter(item => item.section === 'calendar');
+    startCal(caldata);
+  });
+
+  function readTextFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function() {
+      if (rawFile.readyState === 4 && rawFile.status == "200") {
+        callback(rawFile.responseText);
+      }
+    }
+    rawFile.send(null);
+  }
+
+  function startCal(caldata) {
+    document.addEventListener('readystatechange', function() {
+      var calendarEl = document.getElementById('calendar-element');
+
+      if (calendarEl && !calendarEl.hasChildNodes()) {
+        // Now we need title, summary, content, date
+        // Sample: 
+        // "title":"Carol's Birthday",
+        // "start": "2017-3-07",
+        // "allDay":true,
+        // "url":"/events/carol_bday/"
+        const clean = caldata.map(item => {
+          return {
+            title: item.title,
+            start: moment.unix(item.date).utc().format('YYYY-MM-DD'),
+            allDay: true,
+            url: item.relpermalink,
+            extendedProps: {
+              summary: item.summary
+            }
+          };
+        });
+        console.log('Setting up calendar ', clean);
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+          plugins: [ 'interaction', 'dayGrid' ],
+          defaultView: 'dayGridMonth',
+          header: {
+            left: 'prev,next today',
+            center: 'title',
+            right: 'dayGridMonth'
+          },
+          eventRender: function(info) {
+
+            var tooltip = new Tooltip(info.el, {
+              title: info.event.extendedProps.summary,
+              placement: 'top',
+              trigger: 'hover',
+              container: 'body',
+              template: 	'<div class="tooltip popper-tooltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>'
+            });
+          },
+          events: clean
+        });
+
+        calendar.render();
+      }
+    });
+    
+  }
+</script>
