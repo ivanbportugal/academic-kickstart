@@ -247,11 +247,7 @@ plugins_js  = []
 ############################
 ## Calendar Events
 ############################
-[collections]
-  [calendar]
-    output = true
-    permalink = "/calendar/:path/"
-    title = "Events"
-  # [calendar-data]
-  #   output = true
-  #   permalink = "/calendar-data/:path/"
+[calendar]
+  output = true
+  # permalink = "/calendar/:path/"
+  title = "Events"
