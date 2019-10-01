@@ -12,7 +12,12 @@ address:
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "The Indian Land Republican Women club met for the official charter meeting at Midtown Sundries on Thursday, August
+9th. President, Michelle Simonetti called the meeting to order at 7:05pm. Vice President Anita Joye led with invocation
+then Vice President Beverly Williams led with the Pledge of Allegiance. Former Clover/Lake Wylie Republican Women
+Club President Peggy Upchurch presented the Republican pin to Michelle Simonetti. President, Clover-Lake Wylie
+Republican Women, Rozalynn Federline presented funds to begin the club from the Lancaster republican women club
+that dissolved...."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.September 2018
@@ -48,15 +53,15 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Enable math on this page?
 math: false
