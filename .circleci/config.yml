@@ -1,0 +1,36 @@
+version: 2.0
+
+jobs:
+    build:
+        docker:
+            - image: felicianotech/docker-hugo:latest
+        working_directory: ~/ilrw.github.io
+        steps:
+            - checkout
+            - run:
+                name: Get current site
+                working_directory: ~/
+                command: git clone -b master git@github.com:ivanbportugal/ilrw.github.io.git public
+            - run:
+                name: Generate site
+                working_directory: ~/ilrw.github.io
+                command: HUGO_ENV=production hugo -F -d ~/public
+            - deploy:
+                name: Deploy to Github Pages
+                working_directory: ~/public
+                command: |
+                    git config credential.helper 'cache --timeout=120'
+                    git config user.email "<YOUR_EMAIL>"
+                    git config user.name "Deployment Bot"
+                    git add .
+                    git commit --allow-empty -m "Trigger deployment"
+                    git push -q git@github.com:ivanbportugal/ilrw.github.io.git master
+
+workflows:
+  version: 2
+  main:
+    jobs:
+    - build:
+        filters:
+          branches:
+            only: source
