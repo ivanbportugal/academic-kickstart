@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Indian Land Republican Women</title>
-    <link>./authors/</link>
-      <atom:link href="./authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivanbportugal.github.io/ilrw/authors/</link>
+      <atom:link href="https://ivanbportugal.github.io/ilrw/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Indian Land Republican Women &amp;nbsp; © 2019</copyright><lastBuildDate>Thu, 13 Sep 2018 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/icon-192.png</url>
+      <url>https://ivanbportugal.github.io/ilrw/img/icon-192.png</url>
       <title>Authors</title>
-      <link>./authors/</link>
+      <link>https://ivanbportugal.github.io/ilrw/authors/</link>
     </image>
     
     <item>
       <title>Giovanna Aspesi</title>
-      <link>./authors/giovanna-aspesi/</link>
+      <link>https://ivanbportugal.github.io/ilrw/authors/giovanna-aspesi/</link>
       <pubDate>Thu, 13 Sep 2018 13:00:00 +0000</pubDate>
-      <guid>./authors/giovanna-aspesi/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/authors/giovanna-aspesi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robin Hensel</title>
-      <link>./authors/robin-hensel/</link>
+      <link>https://ivanbportugal.github.io/ilrw/authors/robin-hensel/</link>
       <pubDate>Mon, 13 Aug 2018 13:00:00 +0000</pubDate>
-      <guid>./authors/robin-hensel/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/authors/robin-hensel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>./authors/admin/</link>
+      <link>https://ivanbportugal.github.io/ilrw/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>./authors/admin/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/authors/admin/</guid>
       <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;

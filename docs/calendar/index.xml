@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendar | Indian Land Republican Women</title>
-    <link>./calendar/</link>
-      <atom:link href="./calendar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivanbportugal.github.io/ilrw/calendar/</link>
+      <atom:link href="https://ivanbportugal.github.io/ilrw/calendar/index.xml" rel="self" type="application/rss+xml" />
     <description>Calendar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Indian Land Republican Women &amp;nbsp; © 2019</copyright><lastBuildDate>Tue, 22 Oct 2019 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/icon-192.png</url>
+      <url>https://ivanbportugal.github.io/ilrw/img/icon-192.png</url>
       <title>Calendar</title>
-      <link>./calendar/</link>
+      <link>https://ivanbportugal.github.io/ilrw/calendar/</link>
     </image>
     
     <item>
       <title>Standard Meeting</title>
-      <link>./calendar/oct-22-2019/</link>
+      <link>https://ivanbportugal.github.io/ilrw/calendar/oct-22-2019/</link>
       <pubDate>Tue, 22 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>./calendar/oct-22-2019/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/calendar/oct-22-2019/</guid>
       <description>
 
 &lt;h1 id=&#34;another-title&#34;&gt;another title&lt;/h1&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Republican Precinct</title>
-      <link>./calendar/rep-precinct/</link>
+      <link>https://ivanbportugal.github.io/ilrw/calendar/rep-precinct/</link>
       <pubDate>Tue, 15 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>./calendar/rep-precinct/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/calendar/rep-precinct/</guid>
       <description>
 
 &lt;h2 id=&#34;oh-my-goodness&#34;&gt;Oh my goodness&lt;/h2&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>Not so exciting meeting</title>
-      <link>./calendar/oct-13-2019/</link>
+      <link>https://ivanbportugal.github.io/ilrw/calendar/oct-13-2019/</link>
       <pubDate>Sun, 13 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>./calendar/oct-13-2019/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/calendar/oct-13-2019/</guid>
       <description>
 
 &lt;h1 id=&#34;pffft&#34;&gt;pffft&lt;/h1&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Super Standard Meeting</title>
-      <link>./calendar/oct-10-2019/</link>
+      <link>https://ivanbportugal.github.io/ilrw/calendar/oct-10-2019/</link>
       <pubDate>Thu, 10 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>./calendar/oct-10-2019/</guid>
+      <guid>https://ivanbportugal.github.io/ilrw/calendar/oct-10-2019/</guid>
       <description>
 
 &lt;h1 id=&#34;a-title&#34;&gt;a title&lt;/h1&gt;
