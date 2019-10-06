@@ -10,14 +10,14 @@ jobs:
             - run:
                 name: Get current site
                 working_directory: ~/
-                command: git clone -b master git@github.com:ivanbportugal/ilrw.github.io.git public
+                command: git clone -b master git@github.com:ivanbportugal/ilrw.github.io.git docs
             - run:
                 name: Generate site
                 working_directory: ~/ilrw.github.io
-                command: HUGO_ENV=production hugo -F -d ~/public
+                command: HUGO_ENV=production hugo -F -d ~/docs
             - deploy:
                 name: Deploy to Github Pages
-                working_directory: ~/public
+                working_directory: ~/docs
                 command: |
                     git config credential.helper 'cache --timeout=120'
                     git config user.email "<YOUR_EMAIL>"
