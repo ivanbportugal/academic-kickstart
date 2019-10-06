@@ -3,87 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/calendar/</loc>
+    <loc>./calendar/</loc>
     <lastmod>2019-10-22T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>./</loc>
     <lastmod>2019-10-22T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/calendar/oct-22-2019/</loc>
+    <loc>./calendar/oct-22-2019/</loc>
     <lastmod>2019-10-22T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/calendar/rep-precinct/</loc>
+    <loc>./calendar/rep-precinct/</loc>
     <lastmod>2019-10-15T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/calendar/oct-13-2019/</loc>
+    <loc>./calendar/oct-13-2019/</loc>
     <lastmod>2019-10-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/calendar/oct-10-2019/</loc>
+    <loc>./calendar/oct-10-2019/</loc>
     <lastmod>2019-10-10T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>./authors/</loc>
     <lastmod>2018-09-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/giovanna-aspesi/</loc>
+    <loc>./authors/giovanna-aspesi/</loc>
     <lastmod>2018-09-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/september-2018/</loc>
+    <loc>./talk/september-2018/</loc>
     <lastmod>2018-09-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>./talk/</loc>
     <lastmod>2018-09-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/august-2018/</loc>
+    <loc>./talk/august-2018/</loc>
     <lastmod>2018-08-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/robin-hensel/</loc>
+    <loc>./authors/robin-hensel/</loc>
     <lastmod>2018-08-13T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>./authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>./categories/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>./post/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>./publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>./publication/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>./tags/</loc>
   </url>
   
 </urlset>

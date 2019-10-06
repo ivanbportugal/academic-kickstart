@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meeting Minutes | Indian Land Republican Women</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>./talk/</link>
+      <atom:link href="./talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Meeting Minutes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Indian Land Republican Women &amp;nbsp; © 2019</copyright><lastBuildDate>Thu, 13 Sep 2018 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/icon-192.png</url>
       <title>Meeting Minutes</title>
-      <link>/talk/</link>
+      <link>./talk/</link>
     </image>
     
     <item>
       <title>Indian Land Republican Women Minutes</title>
-      <link>/talk/september-2018/</link>
+      <link>./talk/september-2018/</link>
       <pubDate>Thu, 13 Sep 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/september-2018/</guid>
+      <guid>./talk/september-2018/</guid>
       <description>
 
 &lt;h1 id=&#34;minutes&#34;&gt;Minutes&lt;/h1&gt;
@@ -62,9 +62,9 @@ candidates.&lt;/p&gt;
     
     <item>
       <title>Indian Land Republican Women Minutes</title>
-      <link>/talk/august-2018/</link>
+      <link>./talk/august-2018/</link>
       <pubDate>Mon, 13 Aug 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/august-2018/</guid>
+      <guid>./talk/august-2018/</guid>
       <description>
 
 &lt;h1 id=&#34;minutes&#34;&gt;Minutes&lt;/h1&gt;

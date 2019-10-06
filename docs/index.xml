@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indian Land Republican Women</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>./</link>
+      <atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     <description>Indian Land Republican Women</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Indian Land Republican Women &amp;nbsp; © 2019</copyright><lastBuildDate>Tue, 22 Oct 2019 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/icon-192.png</url>
       <title>Indian Land Republican Women</title>
-      <link>/</link>
+      <link>./</link>
     </image>
     
     <item>
       <title>Calendar</title>
-      <link>/calendar/</link>
+      <link>./calendar/</link>
       <pubDate>Tue, 22 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>/calendar/</guid>
+      <guid>./calendar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meeting Minutes</title>
-      <link>/talk/</link>
+      <link>./talk/</link>
       <pubDate>Thu, 13 Sep 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/</guid>
+      <guid>./talk/</guid>
       <description></description>
     </item>
     
@@ -38,17 +38,17 @@
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>./post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/</guid>
+      <guid>./post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>./publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <guid>./publication/</guid>
       <description></description>
     </item>
     
