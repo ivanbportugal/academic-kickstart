@@ -42,7 +42,7 @@ links:
 - icon: facebook
   icon_pack: fab
   name: Like
-  url: https://facebook.com
+  url: https://www.facebook.com/groups/190694195131009/
 url_code: ""
 url_pdf: ""
 url_slides: ""
