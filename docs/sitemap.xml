@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/calendar/</loc>
+    <lastmod>2019-10-22T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-22T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calendar/oct-22-2019/</loc>
+    <lastmod>2019-10-22T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calendar/rep-precinct/</loc>
+    <lastmod>2019-10-15T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calendar/oct-13-2019/</loc>
+    <lastmod>2019-10-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calendar/oct-10-2019/</loc>
+    <lastmod>2019-10-10T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-09-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/giovanna-aspesi/</loc>
+    <lastmod>2018-09-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/september-2018/</loc>
+    <lastmod>2018-09-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-09-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/august-2018/</loc>
+    <lastmod>2018-08-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robin-hensel/</loc>
+    <lastmod>2018-08-13T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
