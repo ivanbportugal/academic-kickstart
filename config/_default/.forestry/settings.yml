@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: content/_default/config.toml
+  label: Site Config
+  match: "**/*"
+- type: document
   path: config/_default/menus.toml
   label: Menus
-  match: "**/*"
 - type: directory
   path: content
   label: Content
