@@ -5,16 +5,26 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: config/_default/config.toml
-  label: Site Config
-- type: document
   path: config/_default/menus.toml
   label: Menus
 - type: directory
-  path: content
-  label: Content
+  path: content/home
+  label: Home Page
   create: all
   match: "**/*"
+- type: directory
+  path: content/talk
+  label: Meeting Minutes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/calendar
+  label: Calendar
+  create: all
+  match: "**/*"
+- type: document
+  path: config/_default/config.toml
+  label: Site Config
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
