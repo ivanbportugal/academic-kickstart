@@ -23,6 +23,7 @@ sections:
   label: Calendar
   create: all
   match: "**/*"
+  exclude: _index.md
 - type: document
   path: config/_default/config.toml
   label: Site Config
