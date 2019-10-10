@@ -17,6 +17,7 @@ sections:
   label: Meeting Minutes
   create: all
   match: "**/*"
+  exclude: _index.md
 - type: directory
   path: content/calendar
   label: Calendar
