@@ -1,67 +1,46 @@
 ---
 title: Indian Land Republican Women Minutes
 event: Meeting Minutes
-# event_url: https://example.org
-
 location: Source Themes HQ
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.September 2018
-date: "2018-09-13T13:00:00Z"
-date_end: "2018-09-13T15:00:00Z"
+abstract: |-
+  The Indian Land Republican Women club met for our second official charter meeting at Midtown Sundries on Thursday,
+  September 13th. President, Michelle Simonetti called the meeting to order at 7:07pm. Claire McConaughay led with invocation
+  then Vice President Beverly Williams led with the Pledge of Allegiance. Nancy Connor gave a treasurer report balance of
+  $339.64, some funds were used for office supplies and renting a booth at the Fall Festival. Change in secretary was announced,
+  Giovanna Aspesi will be the new secretary.
+date: 2018-09-13T13:00:00Z
+date_end: 2018-09-13T15:00:00Z
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2018-09-13T15:00:00Z"
-
-authors: ["Giovanna Aspesi"]
+publishDate: 2018-09-13T15:00:00Z
+authors:
+- Giovanna Aspesi
 tags: []
-
-# Is this a featured talk? (true/false)
 featured: false
-
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-
 links:
 - icon: facebook
   icon_pack: fab
   name: Like
   url: https://www.facebook.com/groups/190694195131009/
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
 - internal-project
-
-# Enable math on this page?
 math: false
----
 
+---
 # Minutes
 
 The Indian Land Republican Women club met for our second official charter meeting at Midtown Sundries on Thursday,
